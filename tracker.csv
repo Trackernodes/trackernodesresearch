@@ -3,3 +3,4 @@
 #release 1.0 2017,,,,,,,,,
 ,,,,,,,,,
 Vendor,Fingerprint,metadata,Default password,Port,Device type,Protocol,Research,CVE,Exploit
+Loxone Smart Home Miniserver,<title>Loxone Smart Home</title>,,admin:admin,7777/8080,Miniserver home controller,Http,,,
