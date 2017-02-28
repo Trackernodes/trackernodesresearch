@@ -14,7 +14,7 @@ Features
 + Ideal for device of vendor 'Scheider Electric'
 
 RUN
-> python mbusDevInfo-v0.2.1.py <slave id> <host> 
+> python mbusDevInfo-v0.2.1.py [SID] [HOST] 
   Slave Id = 0x00 to 0xF7
 
 FORMAT OUTPUT
@@ -68,8 +68,8 @@ PENDING
 + add formats output: xml, csv, json
 
 ---------------------------------------------
->Bertin Jose
-	@bertinjoseb
+[Bertin Jose ](https://twitter.com/bertinjoseb)
+ @bertinjoseb
 
->Ezequiel Fernandez
-	@capitan_alfa
+[Ezequiel Fernandez](https://twitter.com/capitan_alfa)
+ @capitan_alfa
