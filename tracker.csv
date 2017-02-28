@@ -7,6 +7,6 @@ Loxone Smart Home Miniserver,<title>Loxone Smart Home</title>,,admin:admin,7777/
 Dedicated Micros, server:ADH-Web,,blank user & pass,,DVR,Http,,,,
 e2-LiVE_Smart Home Control System,<title>e2-LiVE_Smart Home Control System</title>,,,80,smart home controller,Http,,,,
 Smart Attendance,<title>Smart Attendance</title>,,,8080,android controller,Http,,,,
-Phaser 6500DN XEROX printer,server:EWS-NIC5/95.47,,,80,Printer,Http,,,,
+Phaser 6500DN XEROX printer,server:EWS-NIC5/95.47,,,80,Printer,Http,,,,/default.htm
 
 
