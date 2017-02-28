@@ -15,7 +15,7 @@ Features
 
 RUN
 > python mbusDevInfo-v0.2.1.py <slave id> <host> 
-Slave Id = 0x00 to 0xF7
+  Slave Id = 0x00 to 0xF7
 
 FORMAT OUTPUT
 
@@ -68,8 +68,8 @@ PENDING
 + add formats output: xml, csv, json
 
 ---------------------------------------------
-Bertin Jose
-@bertinjoseb
+>Bertin Jose
+	@bertinjoseb
 
-Ezequiel Fernandez
-@capitan_alfa
+>Ezequiel Fernandez
+	@capitan_alfa
