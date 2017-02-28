@@ -1,4 +1,4 @@
 #TrackerNodes Research,,,,,,
-#Devices metadata/harcoded password/vulnerabilities
+#Devices metadata/harcoded password/vulnerabilities,,,,,,
 ,,,,,,
 Vendor,Device Model,Fingerprint,Default password/Exploit,Ports,Device type,Protocol,Research,CVE
