@@ -5,3 +5,4 @@
 Vendor,Fingerprint,SSL Metadata,Default password,Port,Device type,Protocol,Research,CVE,Exploit
 Loxone Smart Home Miniserver,<title>Loxone Smart Home</title>,,admin:admin,7777/8080,Miniserver home controller,Http,,,
 Dedicated Micros, server:ADH-Web,,blank user & pass,,DVR,Http,,,
+e2-LiVE_Smart Home Control System,<title>e2-LiVE_Smart Home Control System</title>,,,80,smart home controller,Http,,,
