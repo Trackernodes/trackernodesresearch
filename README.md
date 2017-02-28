@@ -3,12 +3,31 @@
 Tracker Nodes Research
 =======================
 
-CSV; 
-vendors, device, credencentials, model, CVEs, etc
+Delivery of Iot
+
+Vendors, Devices, Models, fingerprints, default passwords, CVEs, etc...,
 
 --------------------
 
 Sections
-+ Vendors
-+ Elemento 2
-+ Elemento 3
++ Vendors list
++ ...
++ ... 
+
+Tools
+MODBUS \TCP 
+============
+
+and moreeeeeeeee.... wait... 
+
+
+
+
+
+---------------------------------------------------------
+
+Bertin Jose
+@bertinjoseb
+
+Ezequiel Fernandez
+@capitan_alfa
