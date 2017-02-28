@@ -1,6 +1,6 @@
 #TrackerNodes Research,,,,,,,,,
 #Device Fingerprinting,,,,,,,,,
-#release 1.0 2017,,,,,,,,,
+#Release 1.0 2017,,,,,,,,,
 ,,,,,,,,,
 Vendor,Fingerprint,SSL Metadata,Default password,Port,Device type,Protocol,Research,CVE,Exploit
 Loxone Smart Home Miniserver,<title>Loxone Smart Home</title>,,admin:admin,7777/8080,Miniserver home controller,Http,,,
