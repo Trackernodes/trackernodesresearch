@@ -10,5 +10,6 @@ Smart Attendance,<title>Smart Attendance</title>,,,8080,android controller,Http,
 Phaser 6500DN XEROX printer,server:EWS-NIC5/95.47,,,80,Printer,Http,,,,/default.htm
 MJPG-streamer,server : MJPG-Streamer/0.2,,,8081,Remote MJPEG STREAM,Http,,,,
 Stealth One,<title>D240</title>,L=DIGICODE,,443,Nas storage,Http,,,,
+Yeri Systems,server:TargetWeb/2011.0 (TargetOS) <title>Access Control Device</title>,,,80,Doors control systems,Http,,,,
 
 
