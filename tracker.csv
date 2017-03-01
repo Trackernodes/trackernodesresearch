@@ -15,3 +15,4 @@ Intelerad Medical Systems Incorporated,<title>InteleBrowser</title>,O=Intelerad 
 SIEMENS SINAUT MD741-1 ,server:lighttpd/1.4.15,,,443,EGPRS/GPRS-Router,Http,,,,
 Verifone Payment system Petroleum/C-Store Control Center,<title>System</title>,O=verifone,,443,Payment system,Http,,,,
 Aclara SmartGrid,<title>Aclara SmartGrid EMS- Login Page</title>,O=Tollgrade Communications,,443,Smart Grid,Http,,,,/sms/faces/main.xhtml
+DISH - smartbox,server:Hiawatha v9.2,O=Pico Digital,,443,Satellite audio/video,Http,,,,
