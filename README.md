@@ -1,22 +1,25 @@
 
 
-Tracker Nodes Research
+#Tracker Nodes Research
 =======================
 
-Delivery of Iot
+##Delivery of Iot
 
 Vendors, Devices, Models, fingerprints, default passwords, CVEs, etc...,
 
 --------------------
 
-Sections
+##Sections
 + Vendors list
 + ...
 + ... 
 
-Tools
-MODBUS \TCP 
+###Tools
+##MODBUS \TCP 
 ============
++mbusDevInfo-v0.2.1.py
+
+
 
 and moreeeeeeeee.... wait... 
 
@@ -24,10 +27,11 @@ and moreeeeeeeee.... wait...
 
 
 
----------------------------------------------------------
+---------------------------------------------
+***
+[Bertin Jose ](https://twitter.com/bertinjoseb)
+ @bertinjoseb
 
-Bertin Jose
-@bertinjoseb
-
-Ezequiel Fernandez
-@capitan_alfa
+[Ezequiel Fernandez](https://twitter.com/Capitan_Alfa)
+ @Capitan_Alfa
+***
