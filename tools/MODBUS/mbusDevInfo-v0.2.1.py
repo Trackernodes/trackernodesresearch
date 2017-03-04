@@ -30,7 +30,7 @@ class Colors:
     BLUE 		= '\033[94m'
     GREEN 		= '\033[32m'
     RED 		= '\033[0;31m'
-    DEFAULT 	= '\033[0m'
+    DEFAULT		= '\033[0m'
     ORANGE 		= '\033[33m'
     WHITE 		= '\033[97m'
     BOLD 		= '\033[1m'
@@ -66,6 +66,7 @@ _modbus_obj_description = {
 						128: "Private objects",
 						255: "Private objects"		
 
+
 }
 # --MBAP 7 Bytes --------------------------------------------------------  #
 # Return a string with the modbus header
@@ -97,6 +98,7 @@ READ_CODE =  '''
 		03 => 	'EXTENDED' 		device identification (stream access)
 		04 => 	'ESPECIFIC'     device identification (individual access)
 	'''
+
 
 modbusRequest = 	create_header_modbus('5',SID)
 

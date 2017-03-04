@@ -6,7 +6,7 @@
 Features
 + python: 			v2.7 
 + appName: 			mbusDevInfo-v0.2.1.py
-+ Defaulth port: 	502
++ Default port: 	502
 + Protocol: 		Modbus
 + Function Code: 	0x2b
 + Ideal for device of vendor 'Scheider Electric'
